@@ -1,0 +1,3 @@
+traintag,net,traindb,testdb,testsplit,numreal,numfake,loss,acc,accbal,rocauc
+net-Xception_traindb-ff-deepfake_face-scale_size-224_seed-41_bestval,Xception,ff-deepfake,ff-deepfake,val,729,853,0.5208391929815044,0.8072060682680152,0.8153366557474064,0.8615698326088671
+net-Xception_traindb-ff-deepfake_face-scale_size-224_seed-41_bestval,Xception,ff-deepfake,ff-deepfake,test,733,728,0.4952393648841576,0.7885010266940452,0.7882994393055784,0.8603042591787475
